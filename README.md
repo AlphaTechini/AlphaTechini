@@ -58,6 +58,9 @@ Hardhat
 
 Soroban
 
+
+
+
  
 I’m currently focusing more on the internals cos surface-level knowledge is useless in this era of technology.
 
