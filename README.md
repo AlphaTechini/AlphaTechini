@@ -4,7 +4,7 @@ I'm Rehoboth Ini.
 
 I'm a **Backend focused and Cloud Engineer**
 
-💎 
+⚡ 
 Everyday, I am improving my expertise in enterprise-level technologies or low-level languages.
 
 I am also familiar with DevOps tools and technologies used to deploy and create production-ready projects and solutions.
@@ -13,34 +13,34 @@ I am also familiar with DevOps tools and technologies used to deploy and create 
 
 ## 💡 SKILLS
 
-### • CLOUD
+### ☁️ CLOUD
 
 - AWS
 - GCP
 - Cloudflare
 
-### • FRONTEND DEVELOPMENT
+### 🎨 FRONTEND DEVELOPMENT
 
 - HTML and CSS
 - JavaScript
 - Svelte
 
-### • BACKEND DEVELOPMENT
+### ⚙️ BACKEND DEVELOPMENT
 
 - Golang
 - Node.js
 - Rust
 
-### • DATABASE MANAGEMENT
+### 🗄️ DATABASE MANAGEMENT
 
 - SQL (PostgreSQL)
 - NoSQL (MongoDB)
 
-### • API DOCUMENTATION
+### 📋 API DOCUMENTATION
 
 - Postman
 
-### • BLOCKCHAIN DEVELOPMENT (languages and tools)
+### ⛓️ BLOCKCHAIN DEVELOPMENT (languages and tools)
 
 - Solidity
 - Hardhat
@@ -52,7 +52,7 @@ I am also familiar with DevOps tools and technologies used to deploy and create 
 
 <br>
 
-I'm currently focusing more on the internals, surface-level knowledge is useless in this era of technology.
+I'm currently focusing more on the internals — surface-level knowledge is useless in this era of technology.
 
 Feel free to reach out and connect with me here on GitHub or via Email to start a conversation.
 
