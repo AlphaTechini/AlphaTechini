@@ -52,7 +52,7 @@ I am also familiar with DevOps tools and technologies used to deploy and create 
 
 <br>
 
-I'm currently focusing more on the internals — surface-level knowledge is useless in this era of technology.
+I'm currently focusing more on the internals. Surface-level knowledge is useless in this era of technology.
 
 Feel free to reach out and connect with me here on GitHub or via Email to start a conversation.
 
