@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there,
 
-<!--
-**AlphaTechini/AlphaTechini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rehoboth Ini.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Backend focused and Cloud Engineer
+
+
+💎 
+Everyday, I am improving my expertise in enterprise-level technologies or low-level languages.
+
+I am also familiar with DevOps tools and technolgies used to deploy and create production-ready projects and solutions.
+
+
+
+# 💡 SKILLS
+
+# •CLOUD
+
+AWS
+
+GCP
+
+Cloudflare
+ 
+# •FRONTEND DEVELOPMENT
+
+HTML and CSS 
+
+Javascript
+
+Svelte
+
+# • BACKEND DEVELOPMENT
+
+Golang 
+
+Node.js
+
+Rust
+
+# • DATABASE MANAGEMENT
+
+SQL(Postgresql)
+
+NoSQL(MongoDB)
+
+
+# • API DOCUMENTATION
+
+Postman
+
+# • BLOCKCHAIN DEVELOPMENT (languages and tools)
+
+Solidity
+
+Hardhat
+
+Soroban
+
+ 
+I’m currently focusing more on the internals cos surface-level knowledge is useless in this era of technology.
+
+Feel free to reach out and connect with me here on GitHub or via Email to start a conversation.
+
+I’m looking forward to collaborating on projects that solve real world problems. Bonus points if there's some
+complexity in the project.
