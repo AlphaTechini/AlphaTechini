@@ -2,69 +2,58 @@
 
 I'm Rehoboth Ini.
 
-
-I'm a Backend focused and Cloud Engineer
-
+I'm a **Backend focused and Cloud Engineer**
 
 💎 
 Everyday, I am improving my expertise in enterprise-level technologies or low-level languages.
 
-I am also familiar with DevOps tools and technolgies used to deploy and create production-ready projects and solutions.
+I am also familiar with DevOps tools and technologies used to deploy and create production-ready projects and solutions.
 
+<br>
 
+## 💡 SKILLS
 
-# 💡 SKILLS
+### • CLOUD
 
-# •CLOUD
+- AWS
+- GCP
+- Cloudflare
 
-AWS
+### • FRONTEND DEVELOPMENT
 
-GCP
+- HTML and CSS
+- JavaScript
+- Svelte
 
-Cloudflare
- 
-# •FRONTEND DEVELOPMENT
+### • BACKEND DEVELOPMENT
 
-HTML and CSS 
+- Golang
+- Node.js
+- Rust
 
-Javascript
+### • DATABASE MANAGEMENT
 
-Svelte
+- SQL (PostgreSQL)
+- NoSQL (MongoDB)
 
-# • BACKEND DEVELOPMENT
+### • API DOCUMENTATION
 
-Golang 
+- Postman
 
-Node.js
+### • BLOCKCHAIN DEVELOPMENT (languages and tools)
 
-Rust
+- Solidity
+- Hardhat
+- Soroban
 
-# • DATABASE MANAGEMENT
+<br>
 
-SQL(Postgresql)
+---
 
-NoSQL(MongoDB)
+<br>
 
-
-# • API DOCUMENTATION
-
-Postman
-
-# • BLOCKCHAIN DEVELOPMENT (languages and tools)
-
-Solidity
-
-Hardhat
-
-Soroban
-
-
-
-
- 
-I’m currently focusing more on the internals cos surface-level knowledge is useless in this era of technology.
+I'm currently focusing more on the internals — surface-level knowledge is useless in this era of technology.
 
 Feel free to reach out and connect with me here on GitHub or via Email to start a conversation.
 
-I’m looking forward to collaborating on projects that solve real world problems. Bonus points if there's some
-complexity in the project.
+I'm looking forward to collaborating on projects that solve real world problems. Bonus points if there's some complexity in the project.
