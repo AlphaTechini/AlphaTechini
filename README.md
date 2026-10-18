@@ -21,14 +21,14 @@ I am also familiar with DevOps tools and technologies used to deploy and create 
 
 ### 🎨 FRONTEND DEVELOPMENT
 
-- HTML and CSS
-- JavaScript
-- Svelte
+- Sveltekit
+- HTML, CSS and JavaScript
 
 ### ⚙️ BACKEND DEVELOPMENT
 
 - Golang
 - Node.js
+- Typescript
 - Rust
 
 ### 🗄️ DATABASE MANAGEMENT
